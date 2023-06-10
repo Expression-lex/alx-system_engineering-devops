@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+X -R --reference=file
+chmod -R ugo+X --reference=file
